@@ -1,4 +1,4 @@
-# StudentAdmissionAQLiteApp
+# StudentAdmissionSQLiteApp
 Student Admission System Using SQLite
 
 ## Elements
